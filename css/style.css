@@ -1,0 +1,12 @@
+body {
+	background-color: #272822;
+}
+
+h1, a {
+	color: #A5A29E;
+	font-family: 'Menlo'
+}
+
+a {
+	text-decoration: none;
+}
